@@ -1,0 +1,13 @@
+package lattice.project;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class LatticeProjectApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(LatticeProjectApplication.class, args);
+	}
+
+}
